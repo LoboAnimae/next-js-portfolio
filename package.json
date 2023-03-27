@@ -1,4 +1,11 @@
 {
+  "author": {
+    "name": "Andrés Quan-Littow",
+    "email": "andrese.quanl@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/LoboAnimae/next-js-portfolio.git"
+  },
   "name": "ssr-portfolio-app",
   "version": "0.1.0",
   "private": true,
